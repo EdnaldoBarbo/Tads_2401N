@@ -30,7 +30,6 @@ create_table(
 )
 
 
-
 # Create a data example 
 data = pd.DataFrame({
     'ID': [1,2,3,4],
